@@ -1,0 +1,150 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Teste",
+            "request": "launch",
+            "mainClass": "Teste",
+            "projectName": "Grace_21d8c60b"
+        },
+        {
+            "type": "java",
+            "name": "Frota",
+            "request": "launch",
+            "mainClass": "Frota",
+            "projectName": "Grace_21d8c60b"
+        },
+        {
+            "type": "java",
+            "name": "TesteFormas",
+            "request": "launch",
+            "mainClass": "TesteFormas",
+            "projectName": "Grace_21d8c60b"
+        },
+        {
+            "type": "java",
+            "name": "TesteCaminhao",
+            "request": "launch",
+            "mainClass": "TesteCaminhao",
+            "projectName": "Grace_21d8c60b"
+        },
+        {
+            "type": "java",
+            "name": "TesteCarro",
+            "request": "launch",
+            "mainClass": "TesteCarro",
+            "projectName": "Grace_21d8c60b"
+        },
+        {
+            "type": "java",
+            "name": "Ex13",
+            "request": "launch",
+            "mainClass": "Ex13",
+            "projectName": "Grace_21d8c60b"
+        },
+        {
+            "type": "java",
+            "name": "Ex10",
+            "request": "launch",
+            "mainClass": "Ex10",
+            "projectName": "Grace_21d8c60b"
+        },
+        {
+            "type": "java",
+            "name": "DiasdoMes",
+            "request": "launch",
+            "mainClass": "DiasdoMes",
+            "projectName": "Grace_21d8c60b"
+        },
+        {
+            "type": "java",
+            "name": "MediaTurma",
+            "request": "launch",
+            "mainClass": "MediaTurma",
+            "projectName": "Grace_21d8c60b"
+        },
+        {
+            "type": "java",
+            "name": "NotasTurma",
+            "request": "launch",
+            "mainClass": "NotasTurma",
+            "projectName": "Grace_21d8c60b"
+        },
+        {
+            "type": "java",
+            "name": "TesteCorrente2",
+            "request": "launch",
+            "mainClass": "TesteCorrente2",
+            "projectName": "Grace_21d8c60b"
+        },
+        {
+            "type": "java",
+            "name": "TesteCorrente",
+            "request": "launch",
+            "mainClass": "TesteCorrente",
+            "projectName": "Grace_21d8c60b"
+        },
+        {
+            "type": "java",
+            "name": "TesteData",
+            "request": "launch",
+            "mainClass": "TesteData",
+            "projectName": "Grace_21d8c60b"
+        },
+        {
+            "type": "java",
+            "name": "TesteCCorrente",
+            "request": "launch",
+            "mainClass": "TesteCCorrente",
+            "projectName": "Grace_21d8c60b"
+        },
+        {
+            "type": "java",
+            "name": "TesteCirculo",
+            "request": "launch",
+            "mainClass": "TesteCirculo",
+            "projectName": "Grace_21d8c60b"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Grace_21d8c60b"
+        },
+        {
+            "type": "java",
+            "name": "ContaBancaria",
+            "request": "launch",
+            "mainClass": "ContaBancaria",
+            "projectName": "Grace_21d8c60b"
+        },
+        {
+            "type": "java",
+            "name": "Triangulo",
+            "request": "launch",
+            "mainClass": "Triangulo",
+            "projectName": "Grace_21d8c60b",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Celsius",
+            "request": "launch",
+            "mainClass": "Celsius",
+            "projectName": "Grace_21d8c60b",
+            "console": "integratedTerminal"
+        }
+    ]
+}
